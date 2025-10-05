@@ -1,130 +1,114 @@
-# 👧🏻 Amira Shinnawi El-Bltage  
-### 💙 Mobile App Developer (Flutter Developer)
+# 👩‍💻 Amira Shinnawi El-Bltage  
+### Mobile App Developer (Flutter Developer)
 
-I’m a Flutter developer with 1 year of experience in building cross-platform, high-performance, and user-focused apps.
-I also work as a freelance Flutter instructor, passionate about innovation, clean architecture, and continuous learning.  
+I’m a Flutter developer with 1 year of experience in building cross-platform, high-performance, and user-focused apps.  
+Also work as a freelance Flutter instructor, passionate about innovation, clean architecture, and continuous learning.  
 
 ---
 
 ## 🚀 Tech Stack
 
-💻 Languages:
-🌟 Dart • ☕ Java • 💠 C# • 🌐 HTML • 🎨 CSS
+**Languages:**  
+Dart • Java • C# • HTML • CSS  
 
-🧠 Concepts:
-🔹 Object-Oriented Programming (OOP)
-🔹 Clean Code
-🔹 SOLID Principles
-🔹 Design Patterns
+**Concepts:**  
+OOP • Clean Code • SOLID Principles • Design Patterns  
 
-📱 Frameworks & Libraries:
-🔥 Flutter
+**Frameworks & Libraries:**  
+Flutter  
 
-🗄️ Databases:
-⚡ Firebase • 🧩 XAMPP
+**Databases:**  
+Firebase • XAMPP  
 
-🔗 APIs:
-🌐 RESTful APIs • 🔄 GraphQL
+**APIs:**  
+RESTful APIs • GraphQL  
 
-🧰 Tools:
-🐙 GitHub • 🔧 Git • ☁️ Firebase Console • 🧪 Postman • 🎨 Figma
+**Tools:**  
+GitHub • Git • Firebase Console • Postman • Figma  
 
-🏗️ Architectural Patterns:
-🧱 Clean Architecture • 🌀 BLoC Pattern • 🧭 MVVM • 🧩 MVC
+**Architectural Patterns:**  
+Clean Architecture • BLoC Pattern • MVVM • MVC  
+
+---
 
 ## 💡 Soft Skills
 
-🗂️ Planning & Organization
-🤝 Teamwork & Collaboration
-💬 Communication
-⚡ Multitasking
-🎯 Responsibility
-🧠 Analytical Thinking
+Planning & Organization • Teamwork • Communication • Multitasking • Responsibility • Analytical Thinking  
+
 ---
 
 ## 🌟 Featured Work
-### 💼 Dalil App
 
-🗓️ Nov 2024 – Jan 2024
-Tech: Flutter • Firebase Cloud Messaging • REST API • Cubit • MVVM • Agora • Localization • Payment Integration
+### Dalil App  
+🗓️ Nov 2024 – Jan 2024  
+**Tech:** Flutter • Firebase Cloud Messaging • REST API • Cubit • MVVM • Agora • Localization • Payment Integration  
 
-Developed a comprehensive guide app offering technical services (identity/profile design, website & app creation).
+- Developed a comprehensive guide app offering technical services (identity/profile design, website & app creation).  
+- Integrated Agora for real-time chat and calls, and Moyaser for secure in-app payments.  
+- Built using Flutter and Bloc architecture for scalability and maintainability.  
 
-Integrated Agora for real-time chat and calls with tech support, and Moyaser for secure in-app payments.
+---
 
-Built using Flutter and Bloc architecture for scalability, smooth performance, and maintainability.
+### GTS System  
+🗓️ Nov 2024 – Mar 2025  
+**Tech:** Flutter • Firebase • REST API • Cubit • MVC • Animation • Thermal Printing • ERP Integration  
 
-### 💼 GTS System
+- ERP system supporting sales representatives, accounting, and business workflows.  
+- Added invoice creation & printing, stock transfers, and customer management.  
+- Enabled real-time notifications and reporting for smooth workflow.  
 
-🗓️ Nov 2024 – Mar 2025
-Tech: Flutter • Firebase • REST API • Cubit • MVC • Animation • Thermal Printing • ERP Integration
+---
 
-ERP system to support sales representatives, covering accounting and business workflows.
+### GTS Restaurant System  
+🗓️ Mar 2025 – Jul 2025  
+**Tech:** Flutter • REST API • Cubit • MVVM • Animation • Thermal Printing • ERP Integration  
 
-Implemented features like invoice creation & thermal printing, stock transfers, and receipt vouchers.
+- Restaurant POS integrated with ERP for dine-in, takeaway, and delivery management.  
+- Implemented invoice creation, billing, and delivery assignment.  
+- Added table switching, invoice transfer, and staff handover.  
 
-Enabled customer management, reporting, and real-time notifications for seamless workflow.
+---
 
-### 🍽️ GTS Restaurant System
+### GTS E-Commerce  
+🗓️ Jul 2025 – Sep 2025  
+**Tech:** Flutter • REST API • Cubit • MVVM • Animation • SignalR • ERP Integration • Payment Integration  
 
-🗓️ Mar 2025 – Jul 2025
-Tech: Flutter • REST API • Cubit • MVVM • Animation • Thermal Printing • ERP Integration
+- E-commerce app integrated with ERP for browsing, ordering, and notifications.  
+- Implemented secure payment gateway for smooth online transactions.  
 
-Restaurant POS system integrated with ERP for dine-in, takeaway, and delivery order management.
+---
 
-Implemented invoice creation, bill calculations, and delivery assignments.
+### GTS Delivery  
+🗓️ Sep 2025 – Oct 2025  
+**Tech:** Flutter • REST API • Cubit • MVVM • Animation • SignalR • Localization  
 
-Added advanced features: table/room switching, invoice transfers, and staff handover.
+- Delivery app connected to the E-commerce system for real-time orders.  
+- Integrated SignalR for instant updates and delivery tracking.  
+- Added payment collection and coordination features.  
 
-### 🛒 GTS E-Commerce
+---
 
-🗓️ Jul 2025 – Sep 2025
-Tech: Flutter • REST API • Cubit • MVVM • Animation • SignalR • ERP Integration • Payment Integration
+### Ghosn App  
+🗓️ Jan 2024 – Jun 2024  
+**Tech:** Flutter • Dart • Firebase • RESTful API • GraphQL • Cubit • Bloc • MVVM  
 
-E-commerce app integrated with ERP for product browsing, order management, and notifications.
+- Plant care assistant & online store with AI disease diagnosis and reminders.  
+- Includes community features and plant documentation.  
 
-Implemented secure payment gateway integration for smooth and safe online transactions.
+---
 
-### 🚚 GTS Delivery
+### Note App  
+🗓️ Offline Project  
+**Tech:** Flutter • Dart • Hive • Cubit • Bloc • MVC  
 
-🗓️ Sep 2025 – Oct 2025
-Tech: Flutter • REST API • Cubit • MVVM • Animation • SignalR • Localization
+- Offline note-taking app with local storage and simple UX.  
 
-Delivery management app connected to the E-commerce system for real-time order assignments.
-
-Integrated SignalR for instant order updates and delivery status notifications.
-
-Added payment collection and tracking for efficient coordination between customers and drivers.
-
-### 🌿 Ghosn App
-
-🗓️ Jan 2024 – Jun 2024
-Tech: Flutter • Dart • Firebase • RESTful API • GraphQL • Cubit • Bloc • MVVM
-
-Personal Plant Assistant: helps users choose and care for plants with tailored guidance.
-
-Online Plant Store: offers a variety of plants suitable for different preferences and spaces.
-
-AI Assistant: diagnoses plant diseases via image recognition using machine learning.
-
-Includes reminders, community features, and plant care documentation.
-
-### 📝 Note App
-
-🗓️ Offline Project
-Tech: Flutter • Dart • Hive • Cubit • Bloc • MVC
-
-Offline note-taking app allowing users to create, edit, and view notes without an internet connection.
-
-Focused on local data storage, speed, and user simplicity.
-
-#### ✨ More projects coming soon... Stay tuned! 🚀
 ---
 
 ## 📫 Contact Me
 
-📍 Location: Kafr El Sheikh, Egypt (Open to Relocation & Remote Work)
-📧 Email: amirashenawy123@gmail.com
-💼 LinkedIn: linkedin.com/in/amira-shinnawi
+📍 **Location:** Kafr El Sheikh, Egypt *(Open to Relocation & Remote Work)*  
+📧 **Email:** [amirashenawy123@gmail.com](mailto:amirashenawy123@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/amira-shinnawi](https://linkedin.com/in/amira-shinnawi)  
 
 ---
