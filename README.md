@@ -43,7 +43,7 @@ I also work as a freelance Flutter instructor, passionate about innovation, clea
 ---
 
 ## 🌟 Featured Work
-### 📱 Dalil App
+### 💼 Dalil App
 
 🗓️ Nov 2024 – Jan 2024
 Tech: Flutter • Firebase Cloud Messaging • REST API • Cubit • MVVM • Agora • Localization • Payment Integration
@@ -119,12 +119,6 @@ Offline note-taking app allowing users to create, edit, and view notes without a
 Focused on local data storage, speed, and user simplicity.
 
 #### ✨ More projects coming soon... Stay tuned! 🚀
----
-
-## 📈 GitHub Stats
-![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amira-shinnawi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amira-shinnawi&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Contact Me
