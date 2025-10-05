@@ -126,6 +126,5 @@ Focused on local data storage, speed, and user simplicity.
 📍 Location: Kafr El Sheikh, Egypt (Open to Relocation & Remote Work)
 📧 Email: amirashenawy123@gmail.com
 💼 LinkedIn: linkedin.com/in/amira-shinnawi
-🌐 Portfolio: amira.shinnawi.protfolio.com
 
 ---
