@@ -87,6 +87,27 @@ Planning & Organization • Teamwork • Communication • Multitasking • Resp
 - Added payment collection and coordination features.  
 
 ---
+### Islami App
+
+🗓️ Aug 2025 – Oct 2025
+**Tech:** : Flutter • Hive • Cubit • Background Services • Local Notifications • Adhan Dart • Just Audio • Better Player • Qibla Compass • Dio • MVVM • Localization
+
+- Developed a full offline Islamic application with Quran, Tafseer, and multiple reciters for Quran playback.
+
+- Added Azan alerts, Qibla direction compass, and prayer time calculation using Adhan Dart.
+
+- Integrated Islamic Radio and Live Quran channels.
+
+- Included daily duas, azkar, and guides for prayer and wudu.
+
+- Implemented background services for Azan notifications and reminders.
+
+- Stored all user data and media locally using Hive for full offline functionality.
+
+- Supported multi-language interface and smooth animated UI for better user experience.
+
+---
+
 
 ### Ghosn App  
 🗓️ Jan 2024 – Jun 2024  
