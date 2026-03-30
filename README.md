@@ -1,8 +1,7 @@
 # 👩‍💻 Amira Shinnawi El-Bltage  
 ### Mobile App Developer (Flutter Developer)
 
-I’m a Flutter developer with 1 year of experience in building cross-platform, high-performance, and user-focused apps.  
-Also work as a freelance Flutter instructor, passionate about innovation, clean architecture, and continuous learning.  
+Mobile App Developer} with 2+ years of experience in cross-platform development using Flutter. Experienced in building scalable, high-performance mobile applications with clean architecture and modern state management. Also working as a freelance Flutter Instructor, mentoring developers and delivering practical training. Passionate about continuous learning and building impactful products.
 
 ---
 
