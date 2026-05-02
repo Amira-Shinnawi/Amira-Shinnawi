@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated header -->
-# 👩‍💻 Amira Shinnawi El-Bltage  
+# Amira Shinnawi El-Bltage  
 
 
 </div>
 
 <div align="center">
 
-### 👩‍💻 Mobile App Developer · Flutter · Clean Architecture · ERP Integration
+###  Mobile App Developer · Flutter · Clean Architecture · ERP Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amira%20Shinnawi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amira-shinnawi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amira-shinnawi.github.io/Portfolio)
