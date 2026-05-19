@@ -103,16 +103,6 @@ Service marketplace with real-time video/chat via Agora, secure in-app payments 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amira-shinnawi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎓 Certifications & Training
 
 - 🏆 **Certified Software Engineer** — HackerRank (2025)
