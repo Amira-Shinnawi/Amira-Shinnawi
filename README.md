@@ -16,7 +16,7 @@ Kafr El Sheikh, Egypt 🇪🇬 · Open to Remote Roles
 
 ## 👩‍💻 About Me
 
-I'm a Flutter Developer with +2 years of professional experience building and delivering cross-platform applications across ERP, POS, e-commerce, education, and customer-facing products.
+I'm a Flutter Developer with 3 years of professional experience building and delivering cross-platform applications across ERP, POS, e-commerce, education, and customer-facing products.
 
 My experience includes ERP integrations, offline-first applications, real-time features, payment integrations, thermal printing, barcode/QR scanning, and Flutter Web platforms.
 
